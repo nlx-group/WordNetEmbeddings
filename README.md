@@ -18,9 +18,9 @@ Please note that the semantic network to semantic space method presented in the 
 
 RG1965
 
-[WordSim-353-Similarity
+[WordSim-353-Similarity](http://alfonseca.org/eng/research/wordsim353.html)
 
-WordSim-353-Relatedness](http://alfonseca.org/eng/research/wordsim353.html)
+[WordSim-353-Relatedness](http://alfonseca.org/eng/research/wordsim353.html)
 
 [MEN](http://clic.cimec.unitn.it/~elia.bruni/MEN.html)
 
