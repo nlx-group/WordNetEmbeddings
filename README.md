@@ -26,6 +26,10 @@ Please note that the semantic network to semantic space method presented in the 
 
 [MTurk-771](http://www2.mta.ac.il/~gideon/datasets/)
 
+**Models**
+
+The best wnet2vec model we have obtained that was ran with 60,000 words using [Princeton WordNet 3.0], referred in the article, (http://wordnetcode.princeton.edu/3.0/WordNet-3.0.tar.gz) is available for download [here](http://lxcenter.di.fc.ul.pt/wn2vec.zip).
+
 **How to run wn2vec software**
 
 To provide input files to the software the following structure must exist:
